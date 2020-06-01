@@ -1,0 +1,2 @@
+# pantry-map
+pantries
